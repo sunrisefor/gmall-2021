@@ -26,6 +26,6 @@ public class GmallConstants {
     public static final String ES_QUERY_INDEXNAME = "gmall2021_sale_detail-query";
     //public static final String ES_QUERY_INDEXNAME = "gmall2021_sale_detail-query";
     public static void main(String[] args) {
-        System.out.println("hello world");
+        System.out.println("hello master");
     }
 }
