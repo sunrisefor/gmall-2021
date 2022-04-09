@@ -24,5 +24,6 @@ public class GmallConstants {
 
     //灵活分析索引别名
     public static final String ES_QUERY_INDEXNAME = "gmall2021_sale_detail-query";
+    //public static final String ES_QUERY_INDEXNAME = "gmall2021_sale_detail-query";
 
 }
